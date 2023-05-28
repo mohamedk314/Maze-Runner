@@ -1,0 +1,7 @@
+Need to install pygame package.
+pip install pygame
+---------------------------------------------------------------------------
+python main.py bigMaze.txt --method dfs 
+dfs(bfs,greedy,astar)
+python main.py mediumMaze.txt --method bfs
+bfs(dfs,greedy,astar)
